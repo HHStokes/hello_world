@@ -16,7 +16,7 @@ You may open with [Python 3.8.6](https://www.python.org/) with your development 
 
 3. Run the program. this can be done by pressing  F5 or Ctrl+F5 to run without debugging.
 
-4. The program will open with this result
+4. The program will open with this result 
     ![execution result](qf_1.jpg)
    and will ask for three inputs.
     ![execution result](qf_2.jpg) 

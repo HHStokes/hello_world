@@ -24,7 +24,6 @@ def main():
         x2 = r2 / (a * 2)
         print("x is equal to: ")
         print(x1,"and",x2)
-    
-    
+
 main()
 
