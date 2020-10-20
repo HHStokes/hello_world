@@ -11,7 +11,7 @@ def main():
     except:
         print("Input not valid")
 
-    else:
+    else: 
         # breaking up each section into smaller easier to
         # handle parts
         # q = (b^2 - 4ac)
