@@ -25,4 +25,4 @@ You may open with [Python 3.8.6](https://www.python.org/) with your development 
 5. You will get this result 
     ![execution result](qf_complete1.jpg)
 
-#### _Yay_! This is still a simple program, but still.  
+#### _Yay_! This is still a simple program, but still. 
